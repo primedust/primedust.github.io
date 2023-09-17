@@ -1,2 +1,1 @@
-# fabdust.github.io
-My personal website files
+<embed src="http://primedust.github.io" style="width:500px; height: 300px;">
